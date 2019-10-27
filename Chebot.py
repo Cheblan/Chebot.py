@@ -244,4 +244,4 @@ async def clean(ctx):
     queues = {}
     await ctx.send("Очередь очищена.")
 
-bot.run('NjM2MTk0MjM3MzE0MjM2NDI3.Xa8H0g.BKJxV7t_uLijRFCDPjQdDui2y-k')
+bot.run('Токен')
